@@ -1,0 +1,16 @@
+{
+  "name": "design-io",
+  "version": "1.0.0",
+  "description": "Design IO is developed to provide design related support for developers.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Mahesh Manohar Narvekar",
+  "license": "ISC",
+  "keywords": [
+    "color",
+    "schemes",
+    "backgrounds"
+  ]
+}
