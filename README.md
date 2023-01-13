@@ -1,10 +1,10 @@
 # What is design-io?
 
-"Design IO is developed to provide design related support for developers, where there is no design for the project."
+Design IO is developed to provide design related support for developers, where there is no design for the project.
 
 # Installation
 
-`npm i design-io --save`
+`npm i @mahesh-dev/design-io --save`
 
 # How to import?
 
